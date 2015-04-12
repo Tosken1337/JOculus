@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f947520b-355a-49dc-99a4-9afd30448e1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="JOculus.iws" />
@@ -679,17 +678,21 @@
       <updated>1428818558221</updated>
       <workItem from="1428818561751" duration="4291000" />
       <workItem from="1428857986644" duration="89000" />
-      <workItem from="1428858076066" duration="542000" />
+      <workItem from="1428858076066" duration="578000" />
     </task>
     <task id="LOCAL-00001" summary="Adding travis file">
       <created>1428858338087</created>
       <updated>1428858338087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding travis file">
+      <created>1428858628203</created>
+      <updated>1428858628203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4922000" />
+    <option name="totallyTimeSpent" value="4958000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="3346" height="1452" extended-state="6" />
