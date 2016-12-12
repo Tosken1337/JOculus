@@ -9,7 +9,7 @@ import java.awt.event.WindowEvent;
 
 /**
  * JOculus
- * User: Sebastian
+ * User: Sebastian Greif
  * Date: 12.04.2015
  * Time: 08:13
  */
